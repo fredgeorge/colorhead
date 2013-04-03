@@ -1,0 +1,20 @@
+{
+  "name": "colorhead",
+  "version": "0.0.0",
+  "description": "A simple website that colors trail directions.",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": "",
+  "author": "Fred George",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "stack": "~0.1.0",
+    "vfs-http-adapter": "~0.2.3",
+    "creationix": "~0.3.1",
+    "vfs-local": "~0.3.11"
+  }
+}
